@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Emma",
+      "city": "Kil",
+      "picture": "https://raw.githubusercontent.com/KajsaEklof/ux-climate-app/implementation1/src/components/images/introImage.png"
+    },
+    {
+      "name": "Harry",
+      "city": "Karlstad",
+      "picture": "https://raw.githubusercontent.com/KajsaEklof/ux-climate-app/implementation1/src/components/images/introImage.png"
+    }
+  ]
+  

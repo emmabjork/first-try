@@ -14,7 +14,8 @@ constructor(props) {
 {
 this.state.data.map((data) => (
 <p key={data}>
-{data.name}
+{data.name}<br/>
+{data.city}
 </p>
 ))
 
